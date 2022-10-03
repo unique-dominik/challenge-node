@@ -33,3 +33,12 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+assets/ffmpeg.exe
+assets/ffplay.exe
+assets/ffprobe.exe
+log/form.txt
+log/req.txt
+src.7z
+src.zip
+test/app.e2e-spec.ts
+test/jest-e2e.json
