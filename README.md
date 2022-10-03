@@ -59,4 +59,4 @@ NO LICENSE
 
 ## Live demo
 - Service Landing Page : http://20.41.121.155:3000/
-- Streaming sample http://20.41.121.155:3000/stream/eca680272ff9aa40ead083400
+- Streaming sample : Try uploading the small video https://github.com/ericadaire/challenge-node/blob/master/testbyuploadingthis.mp4 and you should be redirected to a streaming link like http://20.41.121.155:3000/stream/idxxxxxxxxxxxxxxxxxxxxx
